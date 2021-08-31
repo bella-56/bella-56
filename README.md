@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bella-56
+- 👋 Hi, I’m Bella
 - 👀 I’m interested in anything about data, deep learning and statistics methods
 - 🌱 I’m currently learning RL
 - 💞️ I’m looking to collaborate on ...
